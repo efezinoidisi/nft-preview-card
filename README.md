@@ -25,7 +25,8 @@ Users should be able to:
 
 ### Screenshot
 
-![image-equilibrium](https://user-images.githubusercontent.com/105175740/173255054-fa32cff8-5461-4c59-bc82-a6b8b77cb8f6.jpg)
+![Screen-Shot](https://user-images.githubusercontent.com/105175740/173255447-ffe21fbb-9bdc-49f4-ae1d-3503d1f861ef.png)
+
 
 
 ### Links
