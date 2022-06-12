@@ -27,11 +27,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/screen-shot.png)
+![image-equilibrium](https://user-images.githubusercontent.com/105175740/173255054-fa32cff8-5461-4c59-bc82-a6b8b77cb8f6.jpg)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
 ### Links
 
@@ -55,4 +52,4 @@ I would like to make this responsive once I properly learn how to use media quer
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@efezinoidisi](https://www.frontendmentor.io/profile/efezinoidisi)
