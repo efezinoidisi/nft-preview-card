@@ -1,0 +1,109 @@
+ body {
+     font-family: 'Outfit', sans-serif;
+     font-size: 16px;
+     font-weight: 400;
+     background-color: hsl(217, 54%, 11%);
+     width: 1440px;
+ }
+
+ .container {
+     border: none;
+     border-radius: 20px;
+     width: 400px;
+     height: 680px;
+     position: relative;
+     margin: 200px 500px;
+     background-color: hsl(216, 50%, 16%);
+ }
+
+
+ figure {
+     position: relative;
+     margin: 30px 25px;
+ }
+
+ .main-img img {
+     width: 340px;
+     border: none;
+     border-radius: 5px;
+     margin: 15px 0;
+ }
+
+ section h2 a {
+     font-size: 30px;
+     text-decoration: none;
+     margin: 20px;
+     color: hsl(0, 0%, 100%);
+ }
+
+ section a:hover,
+ .avatar a:hover {
+     color: hsl(178, 100%, 50%);
+ }
+
+ p {
+     font-size: 18px;
+ }
+
+ .one {
+     margin: 20px;
+     line-height: 20px;
+     color: hsl(215, 51%, 70%);
+ }
+
+ .days {
+     display: grid;
+     grid-template-columns: 1fr 1fr;
+     margin: 15px 20px
+ }
+
+ .days p {
+     display: inline;
+     color: hsl(215, 51%, 70%);
+ }
+
+ .eth p {
+     color: hsl(178, 100%, 50%);
+ }
+
+ .clock {
+     text-align: end;
+ }
+
+ .line {
+     border-bottom: 1px solid hsl(215, 32%, 27%);
+     margin: 20px 20px;
+ }
+
+ .avatar {
+     display: grid;
+     grid-template-columns: 1fr 3fr;
+ }
+
+ .avatar img {
+     width: 50px;
+     border: 1px solid hsl(0, 0%, 100%);
+     border-radius: 50%;
+     margin: 0px 20px;
+ }
+
+ .avatar p {
+     display: inline;
+     color: hsl(215, 51%, 70%);
+     margin: 5px 20px;
+ }
+
+ .avatar a {
+     color: hsl(0, 0%, 100%);
+     text-decoration: none;
+ }
+
+ .attribution {
+     font-size: 11px;
+     text-align: center;
+     margin: 20px 0;
+ }
+
+ .attribution a {
+     color: hsl(228, 45%, 44%);
+ }
