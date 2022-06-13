@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL:(https://github.com/efezinoidisi/nft-preview-card/tree/master)
-- Live Site URL: [Add live site URL here](https://efezinoidisi.github.io/nft-preview-card/)
+- Live Site URL: (https://efezinoidisi.github.io/nft-preview-card/)
 
 ## My process
 
