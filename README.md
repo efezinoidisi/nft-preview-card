@@ -24,10 +24,16 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
+-Mobile view
+![127 0 0 1_5501_index html(iPhone SE)](https://user-images.githubusercontent.com/105175740/175397758-3e7ac7f0-2730-4785-aabc-c0f49d52e043.png)
+
+
+-Desktop view
+![127 0 0 1_5501_index html](https://user-images.githubusercontent.com/105175740/175397796-94b99e4c-e16b-48a7-9bfc-f6fb01843035.png)
 
 ### Links
 
-- Solution URL:[Solution]()
+- Solution URL:[Solution](https://github.com/efezinoidisi/nft-preview-card/)
 - Live Site URL: [live site]()
 
 ## My process
