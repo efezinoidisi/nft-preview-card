@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL:[Solution](https://github.com/efezinoidisi/nft-preview-card/)
-- Live Site URL: [live site]()
+- Live Site URL: [live site](https://efezinoidisi.github.io/nft-preview-card/)
 
 ## My process
 
